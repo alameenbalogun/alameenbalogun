@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balogun Al-ameen</h1>
-<h3 align="center">A passionate full-stack developer from Nogeria</h3>
+<h3 align="center">A passionate full-stack developer from Nigeria</h3>
 
 <img src="[https://www.pexels.com/photo/aerial-photo-of-boat-on-sea-1655166/](https://images.app.goo.gl/xHQ8JiQCYFdRuv1U7)" alt="A calm Image"/>
 
